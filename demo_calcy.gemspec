@@ -5,19 +5,19 @@ require_relative "lib/demo_calcy/version"
 Gem::Specification.new do |spec|
   spec.name = "demo_calcy"
   spec.version = DemoCalcy::VERSION
-  spec.authors = ["pragatimindoutin"]
+  spec.authors = ["shivam091"]
   spec.email = ["harshal.ladhe.1@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Calculator"
+  spec.description = "Calculator with four soperations"
+  spec.homepage = "https://github.com/shivam091/demo_calcy"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  spec.metadata["allowed_push_host"] = "https://gem.fury.io/"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/shivam091/demo_calcy"
+  spec.metadata["changelog_uri"] = "https://github.com/shivam091/demo_calcy/blob/4bc4578e7b2f0a45b3771cc423ddfd0007f0f2e9/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

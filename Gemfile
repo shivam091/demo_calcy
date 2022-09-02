@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://gem.fury.io/engineerai'
 
 # Specify your gem's dependencies in demo_calcy.gemspec
 gemspec
