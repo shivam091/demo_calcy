@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["shivam091"]
   spec.email = ["harshal.ladhe.1@gmail.com"]
 
-  spec.summary = "Calculator"
+  spec.summary = "Calculator for testing"
   spec.description = "Calculator with four soperations"
   spec.homepage = "https://github.com/shivam091/demo_calcy"
   spec.required_ruby_version = ">= 2.6.0"
