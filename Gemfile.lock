@@ -4,7 +4,7 @@ PATH
     demo_calcy (0.1.0)
 
 GEM
-  remote: https://gem.fury.io/engineerai/
+  remote: https://rubygems.org/
   specs:
     rake (13.0.6)
 
